@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonaidooo
 - 👀 I’m interested in how I can use my programming and computer science experience in my Genetics major and research.
-- 🌱 I’m currently learning Genetics and Computer Science (Java, Python, SQL, MIPS Assembly, a little bit of HTML and CSS)
+- 🌱 I’m currently doing my Honours in Bioinformatics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
